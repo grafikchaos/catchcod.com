@@ -1,0 +1,13 @@
+// Points JSON file for catchcod.com's Google Map
+
+{"markers":[
+	{
+		"point":new GLatLng(44.981966, -93.236203),
+		"information":"<h3>Center for<br/>Organizational Development</h3>1313 5th Street SE, <br/>Minneapolis, MN 55414<br/><br/>"
+	},
+	{
+		"point":new GLatLng(44.981314, -93.235602),
+		"information":"Bob Dylan used to live and write in an apartment building located here. It has since been torn down and replaced with a parking lot.<br/><br/>"
+	}
+]
+}

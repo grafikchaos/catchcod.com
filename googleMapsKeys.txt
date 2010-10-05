@@ -1,0 +1,8 @@
+Google Maps API Keys:
+	
+	development.grafikchaos.com
+		ABQIAAAA2E_XzudohetC1N8v2BcuMBQJ14_iWZNGCd7MkdSbNpta85jw-BRXaGyMolNsUMZ_xyl1mNKQYXc8IQ
+		
+	catchcod.com
+		ABQIAAAA2E_XzudohetC1N8v2BcuMBT4E60cgbhrvbuDvOgHYDiU0zEdyhRh0twtq13hyJgCN81uxlk06cgZKg
+		
