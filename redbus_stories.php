@@ -25,6 +25,9 @@ if(isset($_GET["story"])) {
 		case "listening":
 		    include('red_bus_stories/redbus_listening_to_new_voices.html');
 		    break;
+		case "checkup":
+		    include('red_bus_stories/redbus_checkup.html');
+		    break;
 	}
 }
 ?>

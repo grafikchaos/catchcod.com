@@ -49,7 +49,6 @@ error_reporting(E_ALL);
 					<ul>
 						<li><a href="center_organizational_development.php">Center for Organizational Development</a></li>
 						<li><a href="profile.php">Jim Storm</a></li>
-						<li><a href="laura_ayers_profile.php">Laura Ayers</a></li>
 					</ul>
 				</li>
 				<li><a href="comments.php">Client/Colleague Comments</a></li>

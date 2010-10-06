@@ -17,6 +17,8 @@ displayHead();
             <p>The Athwin Foundation &ndash; A family foundation named for <u>Ath</u>erton and <u>Win</u>ifred Bean and located in the Greater Twin Cities area of Minneapolis and St. Paul funds organizations providing services in the areas of Arts and Humanities, Education, Human Services, Environmental Enhancement, Organizational Capacity Building and charities whose missions are complementary to the interests of the Trustees.</p>
       
             <p>The Foundation puts a priority on funding organizations rather than specific programs within organizations. Therefore, resources are directed to funded organizations primarily in the form of general operating support. This policy clearly takes into account the need for strong and effective programs; however, the policy also reflects the belief that strong and effective governing boards and executive directors are best positioned to determine how resources are to be utilized at the organization level.</p>
+            
+            <p>The Foundation does not make multiple year grants; however, funding is continued on an annual basis for many organizations. This leaves limited opportunity for new funding.</p>
       
             <p>The Foundation strives to work in partnership with nonprofit organizations:</p>
       
@@ -62,11 +64,11 @@ displayHead();
                 <li>Brief description of current organizational leadership.</li>
                 <li>Description of the primary roles played by the governing board.</li>
                 <li>A figure indicating average percent of board members in attendance at board meetings over the past 12-month period of time.</li>
-                <li>Indication whether the organization has completed or plans to complete an organizational self-assessment and the year it was completed or is planned to be completed.</li>
+                <li>Indication whether the organization has completed or plans to complete an organizational self-assessment and the year it was completed or is planned to be completed. (See Little Red Bus &mdash; The Check Up &mdash; for description of an organizational assessment.)</li>
                 <li>Include contact name, email and phone number.</li>
             </ul>
 
-            <p>All Letters of Inquiry are to be at the Foundation office no later than:</p>
+            <p>All Letters of Inquiry are to be at the Foundation office no later than: 4:00 P.M.</p>
             <ul class="bodyBullets">
                 <li><strong>March 1 for the first funding cycle</strong>. (Printed hard copy)</li>
                 <li><strong>October 1 for the second funding cycle</strong>. (Printed hard copy)</li>
