@@ -45,7 +45,7 @@ error_reporting(E_ALL);
 		<div id="menu">
 			<ul id="nav">
 				<li><a href="index.php">Home</a></li>
-       	<li><a href="about_us.php">About Us</a>
+       	        <li><a href="about_us.php">About Us</a>
 					<ul>
 						<li><a href="center_organizational_development.php">Center for Organizational Development</a></li>
 						<li><a href="profile.php">Jim Storm</a></li>
@@ -107,6 +107,15 @@ function displayBook_SB() {
 				  A lively, very accessible history of LNB and the powerful good that individuals create when they hold themselves to high standards. <a class='external' href="images/LNBfinal-lowres.pdf" title='Click here to see a copy of the book'>Click here</a> to see a copy of the book.
 				</p>
 			</div>
+		</div>
+		
+		<div class="sidebarnotes">
+		    <img class='floatleft' src='images/bookUnderConstruction.jpg' alt='A Boy from Nisswa - the working title for a book describing the life-forming and lessons learned by COD owner Jim Storm. Watch this space for availability.'>
+		    <div class="sidebarNote">
+		        <p>
+		            <em>A Boy from Nisswa</em><br /><br />The working title for a book describing the life-forming and lessons learned by COD owner Jim Storm. Watch this space for availability.
+		        </p>
+		    </div>
 		</div>
 <?php
 }
