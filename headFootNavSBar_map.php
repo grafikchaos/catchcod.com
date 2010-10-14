@@ -107,10 +107,10 @@ function displayBook_SB() {
 		</div>
 		
 		<div class="sidebarnotes">
-		    <img class='floatleft' src='images/bookUnderConstruction.jpg' alt='A Boy from Nisswa - the working title for a book describing the life-forming and lessons learned by COD owner Jim Storm. Watch this space for availability.'>
+		    <img class='floatleft' src='images/bookUnderConstruction.jpg' alt='A Boy from Nisswa - A work in progress. Focus on the life and professional practice of COD owner Jim Storm. Watch this space for availability.'>
 		    <div class="sidebarNote">
 		        <p>
-		            <em>A Boy from Nisswa</em><br /><br />The working title for a book describing the life-forming and lessons learned by COD owner Jim Storm. Watch this space for availability.
+		            <em>A Boy from Nisswa</em><br /><br />A work in progress. Focus on the life and professional practice of COD owner Jim Storm. Watch this space for availability.
 		        </p>
 		    </div>
 		</div>

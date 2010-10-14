@@ -68,7 +68,7 @@ displayHead();
                 <li>Include contact name, email and phone number.</li>
             </ul>
 
-            <p>All Letters of Inquiry are to be at the Foundation office no later than: 4:00 P.M.</p>
+            <p>All Letters of Inquiry are to be at the Foundation office no later than 4:00 P.M.:</p>
             <ul class="bodyBullets">
                 <li><strong>March 1 for the first funding cycle</strong>. (Printed hard copy)</li>
                 <li><strong>October 1 for the second funding cycle</strong>. (Printed hard copy)</li>
