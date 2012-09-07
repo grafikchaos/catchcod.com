@@ -9,11 +9,11 @@
 <div id="mainContent">
 	<div id="content">
 		<p>
-		  Jim Storm, Ph.D.<br/>
-		  1313 Fifth Street S.E.<br/>
-		  Minneapolis, MN 55414<br/>
-		  612-379-3817<br/>
-		  <a href="mailto:jstormcod1@aol.com" title="email Jim">jstormcod1@aol.com</a>
+			Jim Storm, Ph.D.<br/>
+			20 NE 2<sup>nd</sup> Street, Suite 1801<br/>
+		  	Minneapolis, MN 55413<br/>
+		  	612-379-3817<br/>
+		  	<a href="mailto:jstormcod1@aol.com" title="email Jim">jstormcod1@aol.com</a>
 		</p>
 
 		<h2 class='section-header'>MISSION</h2>

@@ -130,9 +130,10 @@ function displayFooter() {
 		<div id="footerContent">
 			<p>
 			  Center for Organizational Development&nbsp;&nbsp;|&nbsp;&nbsp;
-			  1313 5th Street SE&nbsp;&nbsp;|&nbsp;&nbsp;
-			  Minneapolis, MN 55414&nbsp;&nbsp;|&nbsp;&nbsp;
-			  612-379-3817
+			  20 NE 2<sup>nd</sup> Street, Suite 1801&nbsp;&nbsp;|&nbsp;&nbsp;
+			  Minneapolis, MN 55413&nbsp;&nbsp;|&nbsp;&nbsp;
+			  612-379-3817&nbsp;&nbsp;|&nbsp;&nbsp;
+			  <a href="mailto:jstormcod1@aol.com">jstormcod1@aol.com</a>
 			</p><br/>
 			<ul>
 				<li><a href="/index.php" title="Home">Home</a></li>
