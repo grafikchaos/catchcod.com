@@ -113,7 +113,19 @@ function displayBook_SB() {
 		    <img class='floatleft' src='/images/bookUnderConstruction.jpg' alt='A Boy from Nisswa - A work in progress. Focus on the life and professional practice of COD owner Jim Storm. Watch this space for availability.'>
 		    <div class="sidebarNote">
 		        <p>
-		            <em>A Boy from Nisswa</em><br /><br />A work in progress. Focus on the life and professional practice of COD owner Jim Storm. Watch this space for availability.
+		            <em>A Boy From Nisswa</em>
+		            <br /><br />
+		            <a href="/a-boy-from-nisswa-short-sample.php">A Short Sample</a>
+		            <br /><br />
+		           	The construction phase of <em>A Boy From Nisswa</em> has been delayed by the rainy non-constructive
+		           	days of life: the death of my wife last November. Now, however, the sun has begun to shine once
+		           	more and construction has resumed.
+		           	<br /><br />
+		           	Stories like the sixth grade class trip (see attached summary), the realization that
+		           	&quot;I am in the Army now,&quot; and my role as a &quot;charity scout&quot; working with
+		           	Virginia McKnight Binger, are emerging.
+		           	<br /><br />
+		           	Stay tuned and check in as you wish.
 		        </p>
 		    </div>
 		</div>
