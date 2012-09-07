@@ -74,17 +74,35 @@ ol.alphaUpper ul.bodyBullets li { list-style:disc; font-weight:normal; }
 	================================	*/
 blockquote {
   	margin:0 0 1.5em 0;
-  	font:italic 20px/24px Georgia, "Times'New Roman", Times, serif;
+  	font:italic 20px/24px Georgia, "Times New Roman", Times, serif;
   	padding:0 0 1.5em 0;
   	border-bottom:1px solid #dadada;
 }
+
+
 p.largeCallout { font-size:18px; line-height:24px; }
 
 strong, em, strong em { font-size:1em; }
 
 #content blockquote span.quoteAuthor {
-	font: normal 16px/17px Georgia, "Times'New Roman", Times, serif;
+	font: normal 16px/17px Georgia, "Times New Roman", Times, serif;
 	display: block;
+}
+
+#content blockquote.excerpt {
+	font: normal 13px/17px Georgia, "Times New Roman", Times, serif;
+	display: block;
+	background: #f9f9f9;
+	padding: 2em;
+}
+
+#content blockquote.excerpt .title {
+	font-size: 2em;
+	text-align: center;
+	color: #444;
+	border: 2px solid #dedede;
+	border-width:2px 0;
+	padding: 10px 0;
 }
 
 #content blockquote span.authorMeta {
