@@ -61,7 +61,7 @@ function displayHead() {
 	      				<li><a href="/funding_private_philanthropists.php">Private Philanthropists</a></li>
 	    			</ul>
 	    		</li>
-	    		<li><a href="contact.php">Contact Us</a></li>
+	    		<!-- <li><a href="contact.php">Contact Us</a></li> -->
 			</ul>
 		</div>
 	</div>	<!-- END NAVIGATION -->
@@ -141,7 +141,7 @@ function displayFooter() {
 				<li><a href="/redbus.php" title="Little Red Bus">Little Red Bus</a></li>
 				<li><a href="/mocphilanthropy.php" title="Master of Creative Philanthropy">Master of Creative Philanthropy</a></li>
 				<li><a href="/funding.php" title="Funding Information">Funding Information</a></li>
-				<li><a href="/contact.php" title="Contact Us">Contact Us</a></li>
+				<!-- <li><a href="/contact.php" title="Contact Us">Contact Us</a></li> -->
 			</ul>
 			<br/>
 			<p style="color:#ccc;">site designed by <a href="http://www.grafikchaos.com">grafikchaos</a></p>
