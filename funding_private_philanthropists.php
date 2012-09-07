@@ -10,7 +10,11 @@ displayHead();
 <div id="mainContent">
 	<div id="content">
 		<h1>Funding Information: Private Philanthropists</h1>
-		<p>Private philanthropists are engaged in a proactive manner and are not accepting proposals.</p>
+		<p>
+			Private philanthropists residing in the Twin Cities and Brainerd Lakes areas of Minnesota
+			and the San Antonio/Austin area of south Texas working with Jim operate in a proactive manner
+			and do not respond to unsolicited requests for funding.
+		</p>
 	</div>	<!-- END CONTENT -->
 </div>	<!-- END MAIN CONTENT -->
 
