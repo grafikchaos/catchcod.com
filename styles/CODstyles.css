@@ -68,8 +68,8 @@ ol.alphaUpper ul.bodyBullets li { list-style:disc; font-weight:normal; }
 /* 	================================
 	TEXT LEVEL
 	================================	*/
-blockquote { 
-  	margin:0 0 1.5em 0; 
+blockquote {
+  	margin:0 0 1.5em 0;
   	font:italic 20px/24px Georgia, "Times'New Roman", Times, serif;
   	padding:0 0 1.5em 0;
   	border-bottom:1px solid #dadada;
@@ -80,9 +80,9 @@ strong, em, strong em { font-size:1em; }
 
 #content blockquote span.quoteAuthor { font:normal 16px/17px Georgia, "Times'New Roman", Times, serif;; display:block; }
 #content blockquote span.authorMeta {
-	font:normal 13px/17px Georgia, "Times New Roman", Times, serif; 
-	text-align:right; 
-	display:block; 
+	font:normal 13px/17px Georgia, "Times New Roman", Times, serif;
+	text-align:right;
+	display:block;
 	position:relative;
 	right:20px;
 }
@@ -103,6 +103,11 @@ address { font-size:1.3em; margin:0 0 1em 0; }
 	text-align:left;
 	margin:50px 30px 0 380px;
 	padding:0;
+}
+
+#quote em {
+	font-size: 1.5em;
+	line-height: 1.2em;
 }
 
 /*	-----------------< Navigation >--------------------- */
@@ -249,7 +254,7 @@ img#noisyBus:hover { cursor:pointer; }
 #sidebar ul li { list-style:none; margin:5px 0 5px 0; font-size:1.2em; }
 
 /*	--------< footer DIVS >------------ */
-#footerBorderTop { 
+#footerBorderTop {
 	clear:both;
 	float:left;
 	margin:0 0 10px 15px;
@@ -277,7 +282,7 @@ img#noisyBus:hover { cursor:pointer; }
 	padding:10px 0 0 0;
 	text-align:center;
 }
-#footerContent p { text-align:center; }	
+#footerContent p { text-align:center; }
 #footerContent ul li {
 	list-style:none;
 	display:inline;
