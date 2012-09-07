@@ -28,6 +28,12 @@ if(isset($_GET["story"])) {
 		case "checkup":
 		    include('red_bus_stories/redbus_checkup.html');
 		    break;
+		case "new-leader":
+		    include('red_bus_stories/redbus_search_for_new_leader.html');
+		    break;
+		case "committees":
+			include('red_bus_stories/redbus_committees.html');
+			break;
 	}
 }
 ?>
