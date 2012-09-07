@@ -4,7 +4,7 @@
  *
  * functions for displaying the header, navigation, sidebar contents (Little Red Bus & Book) and footer
  * the div#mainContent will be located in each page to allow for customization
- */	
+ */
 
 include(dirname(__FILE__) . "/inc/baseUrl.php");
 
@@ -106,7 +106,7 @@ function displayBook_SB() {
 				<p>
 				  <a class='external' href="<?php echo getBaseUrl(); ?>images/LNBfinal-lowres.pdf"><em>Loring Nicollet-Bethlehem Community Centers, Inc. - A Lively History</em></a>
 				  by Laura Ayers and Jim Storm.<br /><br />
-				  A lively, very accessible history of LNB and the powerful good that individuals create when they hold themselves to high standards. <a class='external' href="images/LNBfinal-lowres.pdf" title='Click here to see a copy of the book'>Click here</a> to see a copy of the book.
+				  A lively, very accessible history of LNB and the powerful good that individuals create when they hold themselves to high standards. <a class='external' href="<?php echo getBaseUrl(); ?>images/LNBfinal-lowres.pdf" title='Click here to see a copy of the book'>Click here</a> to see a copy of the book.
 				</p>
 			</div>
 		</div>
