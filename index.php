@@ -10,16 +10,20 @@ displayHead();
 
 	<div id="mainContent">
 		<div id="content">
-			<h1>Center for Organizational Development</h1><br/><br/>
-			<h2>Professionals in:</h2>
+			<h1>Center for Organizational Development</h1>
+
+			<div class='hero-unit'>
+				<h2 class='section-header'>Professionals in:</h2>
 				<p>
+					<a href="/comments.php">Click to Testimonials</a>
 					<ul class="bodyBullets">
 						<li>Philanthropic Consultation</li>
 						<li>Organizational Development</li>
 						<li>Leadership Mentoring</li>
 					</ul>
 				</p>
-			<h2>Our values:</h2>
+
+				<h2 class='section-header'>Our values:</h2>
 				<p>
 					<ul id="values" class="bodyBullets">
 						<li>We place paramount importance on the <strong>professionalism</strong> of our practice.</li>
@@ -30,11 +34,11 @@ displayHead();
 						<li>We believe that much is learned by <strong>listening.</strong></li>
 					</ul>
 				</p>
-				<br/>
+			</div>
 			<p><em>Providing the knowledge, experience, and expertise necessary to create solutions that work.</em></p>
 		</div>	<!-- END CONTENT -->
 	</div>	<!-- END MAIN CONTENT -->
-	
+
 	<div id="sidebar">
 <?php
 
