@@ -35,7 +35,7 @@ displayHead();
 					</ul>
 				</p>
 			</div>
-			<p><em>Providing the knowledge, experience, and expertise necessary to create solutions that work.</em></p>
+			<p><em>Providing the expertise necessary to create client-owned solutions that work.</em></p>
 		</div>	<!-- END CONTENT -->
 	</div>	<!-- END MAIN CONTENT -->
 
