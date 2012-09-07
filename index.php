@@ -15,7 +15,7 @@ displayHead();
 			<div class='hero-unit'>
 				<h2 class='section-header'>Professionals in:</h2>
 				<p>
-					<a href="/comments.php">Click to Testimonials</a>
+					<a href="<?php echo getBaseUrl(); ?>comments.php">Click to Testimonials</a>
 					<ul class="bodyBullets">
 						<li>Philanthropic Consultation</li>
 						<li>Organizational Development</li>

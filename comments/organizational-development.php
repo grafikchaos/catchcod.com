@@ -67,9 +67,9 @@
 <div id="sidebar">
 	<h2>Client/Colleague Testimonials</h2>
 	<ul class='side-nav'>
-		<li><a href="/comments/philanthropic-consulting.php">Philanthropic Consulting</a></li>
-		<li><a href="/comments/organizational-development.php">Organizational Development</a></li>
-		<li><a href="/comments/leadership-mentoring.php">Leadership Mentoring</a></li>
+		<li><a href="<?php echo getBaseUrl(); ?>comments/philanthropic-consulting.php">Philanthropic Consulting</a></li>
+		<li><a href="<?php echo getBaseUrl(); ?>comments/organizational-development.php">Organizational Development</a></li>
+		<li><a href="<?php echo getBaseUrl(); ?>comments/leadership-mentoring.php">Leadership Mentoring</a></li>
 	</ul>
 
 	<?php

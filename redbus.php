@@ -16,15 +16,15 @@ displayHead();
 	<div id="sidebar">
 		<h2>Little Red Bus Archive</h2>
 		<ul id="stories">
-			<li><a href="/redbus.php?story=charting">Charting the Course</a></li>
-			<li><a href="/redbus.php?story=driving">Who's Driving the Bus?</a></li>
-			<li><a href="/redbus.php?story=doubting">Intelligent Doubting</a></li>
-			<li><a href="/redbus.php?story=resources">Insufficient Resources</a></li>
-			<li><a href="/redbus.php?story=founder">The Founder</a></li>
-			<li><a href="/redbus.php?story=chemistry">The Chemistry</a></li>
-			<li><a href="/redbus.php?story=maintenance">Maintenance and Repair</a></li>
-			<li><a href="/redbus.php?story=listening">Listening to New Voices</a></li>
-			<li><a href="/redbus.php?story=checkup">The Check Up</a></li>
+			<li><a href="<?php echo getBaseUrl(); ?>redbus.php?story=charting">Charting the Course</a></li>
+			<li><a href="<?php echo getBaseUrl(); ?>redbus.php?story=driving">Who's Driving the Bus?</a></li>
+			<li><a href="<?php echo getBaseUrl(); ?>redbus.php?story=doubting">Intelligent Doubting</a></li>
+			<li><a href="<?php echo getBaseUrl(); ?>redbus.php?story=resources">Insufficient Resources</a></li>
+			<li><a href="<?php echo getBaseUrl(); ?>redbus.php?story=founder">The Founder</a></li>
+			<li><a href="<?php echo getBaseUrl(); ?>redbus.php?story=chemistry">The Chemistry</a></li>
+			<li><a href="<?php echo getBaseUrl(); ?>redbus.php?story=maintenance">Maintenance and Repair</a></li>
+			<li><a href="<?php echo getBaseUrl(); ?>redbus.php?story=listening">Listening to New Voices</a></li>
+			<li><a href="<?php echo getBaseUrl(); ?>redbus.php?story=checkup">The Check Up</a></li>
 		</ul>
 		<br/><br/>
 		<div class="sidebarnotes">

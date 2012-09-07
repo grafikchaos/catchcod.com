@@ -11,9 +11,9 @@
 		<h1>Client/Colleague Comments</h1>
 
 		<ul class='bodyBullets'>
-			<li><a href="/comments/philanthropic-consulting.php">Philanthropic Consulting</a></li>
-			<li><a href="/comments/organizational-development.php">Organizational Development</a></li>
-			<li><a href="/comments/leadership-mentoring.php">Leadership Mentoring</a></li>
+			<li><a href="<?php echo getBaseUrl(); ?>comments/philanthropic-consulting.php">Philanthropic Consulting</a></li>
+			<li><a href="<?php echo getBaseUrl(); ?>comments/organizational-development.php">Organizational Development</a></li>
+			<li><a href="<?php echo getBaseUrl(); ?>comments/leadership-mentoring.php">Leadership Mentoring</a></li>
 		</ul>
 
 	</div>	<!-- END CONTENT -->

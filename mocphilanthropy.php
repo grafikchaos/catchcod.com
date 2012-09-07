@@ -57,7 +57,7 @@ displayHead();
 			  We believe it is important to continue to provide this valuable book as a vehicle for shaping the future 
 			  of effective philanthropy.
 			</p>
-			<p><a href="/mocphilanthropy-read-book.php" title="read the book">To see/download a copy of the book click here</a></p>
+			<p><a href="<?php echo getBaseUrl(); ?>mocphilanthropy-read-book.php" title="read the book">To see/download a copy of the book click here</a></p>
 		</div>	<!-- END CONTENT -->
 	</div>	<!-- END MAIN CONTENT -->
 	

@@ -12,9 +12,9 @@ displayHead();
 		<div id="content">
 			<h1>Funding Information</h1>
 			<ul class="bodyBullets">
-				<li><a href="/funding_athwin.php">Athwin Foundation</a></li>
-				<li><a href="/funding_vmb.php">VMB Fund</a></li>
-				<li><a href="/funding_private_philanthropists.php">Private Philanthropists</a></li>
+				<li><a href="<?php echo getBaseUrl(); ?>funding_athwin.php">Athwin Foundation</a></li>
+				<li><a href="<?php echo getBaseUrl(); ?>funding_vmb.php">VMB Fund</a></li>
+				<li><a href="<?php echo getBaseUrl(); ?>funding_private_philanthropists.php">Private Philanthropists</a></li>
 			</ul>
 		</div>	<!-- END CONTENT -->
 	</div>	<!-- END MAIN CONTENT -->
