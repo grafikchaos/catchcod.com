@@ -64,16 +64,16 @@ displayHead();
                 <ul class='bodyBullets'>
                     <li>
                         Organizations requesting funds are to review information and guidelines on the
-                        <a href="http://www.catchcod.com" title="CatchCOD.com">www.catchcod.com</a> web site
-                        regarding the Athwin Foundation prior to each submission of a Letter of Inquiry.
+                        <a href="http://www.catchcod.com">www.catchcod.com</a> web site regarding the Athwin
+                        Foundation prior to <em>each</em> submission of a Letter of Inquiry.
                     </li>
                     <li>
                         Organizations requesting funds are to follow all guidelines established and in place
                         for all funding requests.
                     </li>
                     <li>
-                        Organizations will notify the Foundation of significant changes that have or are
-                        taking place that will have an impact on funds granted.
+                        Organizations will notify the Foundation of significant changes that have or are taking
+                        place that will have an impact on funding decisions.
                     </li>
                     <li>
                         Organizations requesting funds will initiate each request with a Letter of Inquiry.
@@ -94,14 +94,14 @@ displayHead();
 
         <ul class='bodyBullets'>
             <li>
-                Over-all operating strength of the organization, including its board and demonstrated
+                Overall operating strength of the organization, including its board and demonstrated
                 executive leadership and level of board participation.
             </li>
             <li>
                 Need for and demonstrated effectiveness of its programs.
             </li>
             <li>
-                Geographic area in which services are delivered &ndash; focus on Minnesota.
+                Geographic area in which services are delivered &ndash; primary focus on Minnesota.
             </li>
             <li>
                 Adherence to application guidelines established by the Foundation.
@@ -121,12 +121,16 @@ displayHead();
 
         <p>
             <strong>B. Each request for funding requires a Letter of Inquiry</strong> &mdash; no longer than
-            two pages &mdash; in which the applicant organization addresses the following points:
+            two pages and printed on only one side of each page &mdash; in which the applicant organization
+            addresses the following points:
         </p>
         <ul class="bodyBullets">
             <li>
                 A statement that the organization is currently a tax-exempt organization
                 (The Foundation does not fund individuals).
+            </li>
+            <li>
+                Annual operating budget.
             </li>
             <li>
                 Amount of proposed request.
@@ -153,6 +157,10 @@ displayHead();
             <li>
                 Include contact name, email and phone number.
             </li>
+            <li>
+                Additional enclosures, such as flyers, newsletters, etc., are not to be a part
+                of the Letter of Inquiry.
+            </li>
         </ul>
 
         <p>All Letters of Inquiry are to be at the Foundation office no later than 4:00 P.M.:</p>
@@ -169,15 +177,15 @@ displayHead();
             When a due date falls on a weekend or holiday, Letters of Inquiry are due in the Athwin
             Foundation office <strong><em>by the last business day before the due date.</em></strong>
         </p>
-        <p>
-            <strong>Letters of Inquiry are to be mailed to:</strong>
+        <blockquote class="address-block">
+            <p><strong>All correspondence is to be mailed to:</strong></p>
             <address>
+                Jim Storm<br />
                 Athwin Foundation<br />
-                5200 Willson Road<br />
-                Suite 307<br />
+                5200 Willson Road, Suite 307<br />
                 Minneapolis, MN 55424
             </address>
-        </p>
+        </blockquote>
 
         <p><strong>C. Follow-Up</strong></p>
 
@@ -192,13 +200,13 @@ displayHead();
             </li>
             <li>
                 All organizations submitting Letters of Inquiry and proposals will receive notification
-                as funding decisions are made.
+                when funding decisions are made.
             </li>
         </ul>
 
         <p>
             All questions should be directed to Jim Storm, Consultant to the Foundation,
-            <a href="mailto:jstormcod1@aol.com" title="Email Jim Storm">jstormcod1@aol.com</a> or 612-379-3817.
+            <a href="mailto:jstormcod1@aol.com" title="Email Jim Storm">jstormcod1@aol.com</a>.
         </p>
 
         <p>

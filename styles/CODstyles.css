@@ -105,6 +105,18 @@ strong, em, strong em { font-size:1em; }
 	padding: 10px 0;
 }
 
+#content blockquote.address-block {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	display: block;
+	background: #f9f9f9;
+	padding: 2em;
+}
+
+#content blockquote.address-block address {
+	line-height: 1.2em;
+}
+
 #content blockquote span.authorMeta {
 	font:normal 13px/17px Georgia, "Times New Roman", Times, serif;
 	text-align:right;
