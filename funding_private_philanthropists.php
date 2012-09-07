@@ -10,11 +10,11 @@ displayHead();
 
 	<div id="mainContent">
 		<div id="content">
-			<h1>Funding Information: Private Philanthropists</h1><br/><br/>
+			<h1>Funding Information: Private Philanthropists</h1>
 			<p>Private philanthropists are engaged in a proactive manner and are not accepting proposals.</p>
 		</div>	<!-- END CONTENT -->
 	</div>	<!-- END MAIN CONTENT -->
-	
+
 	<div id="sidebar">
 <?php
 
