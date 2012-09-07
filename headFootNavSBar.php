@@ -32,7 +32,7 @@ function displayHead() {
 <div id="wrapper">
 
 	<div id="header">
-		<a href="index.php">
+		<a href="/index.php">
 			<img class="Logo" src="/images/COD_logo.gif" alt="Center for Organizational Development" width="265" height="65" />
 		</a>
 		<div id="quote">
