@@ -38,8 +38,8 @@
 		<p class="quoteComment">
 			<em>
 				&quot;My most recent work with Jim and Laura was extremely rewarding. Their project involved creating
-				a lively, very accessible history of Loring Nicollet-Bethlehem Community Center, Inc. (LNB) as a part
-				of the process of merging LNB with PPL. Jim's deep experience with LNB counted for a great deal, of course, but in addition the two of them brought creativity and sensitivity to the task. They talked with the right people in the right way, and saw the project as a way to advance the larger cause of continuing the important work of LNB in a different organizational context. At the same time the book they created provided an important and needed capstone to the wonderful experiences so many people and institutions in Minneapolis had with LNB over decades. It was a job well done, and I am grateful for their efforts.&quot;
+				a lively, very accessible history of Loring Nicollet-Bethlehem Community Centers, Inc. (LNB) as a part
+				of the process of merging LNB with PPL. Jim's deep experience with LNB counted for a great deal, of course, but in addition the two of them brought creativity and sensitivity to the task. They talked with the right people in the right way, and saw the project as a way to advance the larger cause of continuing the important work of LNB in a different organizational context. At the same time, the book they created provided an important and needed capstone to the wonderful experiences so many people and institutions in Minneapolis had with LNB over decades. It was a job well done, and I am grateful for their efforts.&quot;
 			</em>
 		</p>
 		<p class="quoteAuthor">Steve Cramer &mdash; Executive Director, Project for Pride in Living, Inc.</p>
