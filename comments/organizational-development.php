@@ -26,7 +26,7 @@
 
 		<p class="quoteComment">
 			<em>
-				&quot;I do not know of a good way to thank Jim and Laura. I walked away from the meeting really inspired. I love to watch group dynamics and I have never been so skillfully coached. They are making All Americans out of us. I personally am humbled by their gift of help&hellip; The real fun is about to begin as we makethis grow.&quot;
+				&quot;I do not know of a good way to thank Jim and Laura. I walked away from the meeting really inspired. I love to watch group dynamics and I have never been so skillfully coached. They are making All Americans out of us. I personally am humbled by their gift of help&hellip; The real fun is about to begin as we make this grow.&quot;
 			</em>
 		</p>
 		<p class="quoteAuthor">
@@ -45,7 +45,7 @@
 
 		<p class="quoteComment">
 			<em>
-				&quot;I've known Jim Storm in his many roles for some 30 years. To all of these situations, Jim has broughtwisdom and extraordinary competence. He has the kind of leadership skills needed to work with people ofvarying ages, backgrounds and experiences. He's a strong manager and keeps an eye on the bottom line. He is compassionate and truly cares about those with whom he works. Jim is, above all, a fine man.&quot;
+				&quot;I've known Jim Storm in his many roles for some 30 years. To all of these situations, Jim has brought wisdom and extraordinary competence. He has the kind of leadership skills needed to work with people of varying ages, backgrounds and experiences. He's a strong manager and keeps an eye on the bottom line. He is compassionate and truly cares about those with whom he works. Jim is, above all, a fine man.&quot;
 			</em>
 		</p>
 		<p class="quoteAuthor">Marion Etzwiler &mdash; Past President, The Minneapolis Foundation</p>
