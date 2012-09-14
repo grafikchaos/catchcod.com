@@ -24,7 +24,15 @@ function changeQuotes() {
   var contactPage       = "/contact.php";
 
   //  Get the current URL of the page
-  var currenturl = window.location.pathname;
+  var currentPage = window.location.pathname;
+  matches = currentPage.match(/^.*(?:(\/\w+\.php)|\/)$/i);
+
+  if (matches != undefined && matches != null && matches.length > 1) {
+    currenturl = matches[1];
+  } else {
+    currenturl = currentPage;
+  }
+
 
   if(currenturl == homePage || currenturl == indexPage || currenturl == mocpPage || currenturl == fundingPage || currenturl == fundingVmbPage || currenturl == fundingPhilPage || currenturl == contactPage) {
       var para = document.createElement("p");
