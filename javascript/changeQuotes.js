@@ -34,7 +34,7 @@ function changeQuotes() {
   }
 
 
-  if(currenturl == homePage || currenturl == indexPage || currenturl == mocpPage || currenturl == fundingPage || currenturl == fundingVmbPage || currenturl == fundingPhilPage || currenturl == contactPage) {
+  if(window.location.pathname == homePage || currenturl == indexPage || currenturl == mocpPage || currenturl == fundingPage || currenturl == fundingVmbPage || currenturl == fundingPhilPage || currenturl == contactPage) {
       var para = document.createElement("p");
       var author = document.createElement("p");
       var emphasis = document.createElement("em");
