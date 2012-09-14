@@ -109,7 +109,7 @@ million, known throughout the community for program and administrative excellenc
 		<ul class="bodyBullets">
 			<li>
 				<em>Loring Nicollet-Bethlehem Community Centers 1954-2008: A Lively History</em>
-				(Created by Laura Ayers &amp; Jim Storm on behalf of the Project for Pride in Living as a celebration of its merger with LNB)<br />
+				(Created by Laura Ayers &amp; Jim Storm on behalf of Project for Pride in Living as a celebration of its merger with LNB)<br />
 				<a class='external' href='images/LNBfinal-lowres.pdf' title='Loring Nicollet-Bethlehem Community Centers: A Lively History 2008'>Click here to see a copy of the book</a>
 		  	</li>
 			<li>
