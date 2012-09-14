@@ -49,7 +49,7 @@
 				&quot;I've known Jim Storm in his many roles for some 30 years. To all of these situations Jim has broughtwisdom and extraordinary competence. He has the kind of leadership skills needed to work with people ofvarying ages, backgrounds and experiences. He's a strong manager and keeps an eye on the bottom line. He is compassionate and truly cares about those with whom he works. Jim is, above all, a fine man.&quot;
 			</em>
 		</p>
-		<p class="quoteAuthor">Marion Etzwiler &mdash; Past President, Minneapolis Foundation</p>
+		<p class="quoteAuthor">Marion Etzwiler &mdash; Past President, The Minneapolis Foundation</p>
 
 	</div>	<!-- END CONTENT -->
 </div>	<!-- END MAIN CONTENT -->
