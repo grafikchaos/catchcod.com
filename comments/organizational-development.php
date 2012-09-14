@@ -26,10 +26,7 @@
 
 		<p class="quoteComment">
 			<em>
-				&quot;I do not know of a good way to thank Jim and Laura. I walked away from the meeting really inspired.
-				I love to watch group dynamics and I have never been so skillfully coached. They are making All Americans
-				out of us. I personally am humbled by their gift of help&hellip; The real fun is about to begin as we make
-				this grow.&quot;
+				&quot;I do not know of a good way to thank Jim and Laura. I walked away from the meeting really inspired. I love to watch group dynamics and I have never been so skillfully coached. They are making All Americans out of us. I personally am humbled by their gift of help&hellip; The real fun is about to begin as we makethis grow.&quot;
 			</em>
 		</p>
 		<p class="quoteAuthor">
@@ -42,24 +39,17 @@
 			<em>
 				&quot;My most recent work with Jim and Laura was extremely rewarding. Their project involved creating
 				a lively, very accessible history of Loring Nicollet-Bethlehem Community Center, Inc. (LNB) as a part
-				of the process of merging LNB with PPL. Jim's deep experience with LNB counted for a great deal, of course,
-				but in addition the two of them brought creativity and sensitivity to the task. They talked with the right
-				people in the right way, and saw the project as a way to advance the larger cause of continuing the important
-				work of LNB in a different organizational context. At the same time the book they created provided an
-				important and needed capstone to the wonderful experiences so many people and institutions in Minneapolis
-				had with LNB over decades. It was a job well done, and I am grateful for their efforts.&quot;
+				of the process of merging LNB with PPL. Jim's deep experience with LNB counted for a great deal, of course, but in addition the two of them brought creativity and sensitivity to the task. They talked with the right people in the right way, and saw the project as a way to advance the larger cause of continuing the important work of LNB in a different organizational context. At the same time the book they created provided an important and needed capstone to the wonderful experiences so many people and institutions in Minneapolis had with LNB over decades. It was a job well done, and I am grateful for their efforts.&quot;
 			</em>
 		</p>
 		<p class="quoteAuthor">Steve Cramer &mdash; Executive Director, Project for Pride in Living, Inc.</p>
 
 		<p class="quoteComment">
-			<em>&quot;I've known Jim Storm in his many roles for some 30 years. To all of these situations Jim has brought
-				wisdom and extraordinary competence. He has the kind of leadership skills needed to work with people of
-				varying ages, backgrounds and experiences. He's a strong manager and keeps an eye on the bottom line.
-				He is compassionate and truly cares about those with whom he works. Jim is, above all, a fine man.&quot;
+			<em>
+				&quot;I've known Jim Storm in his many roles for some 30 years. To all of these situations Jim has broughtwisdom and extraordinary competence. He has the kind of leadership skills needed to work with people ofvarying ages, backgrounds and experiences. He's a strong manager and keeps an eye on the bottom line. He is compassionate and truly cares about those with whom he works. Jim is, above all, a fine man.&quot;
 			</em>
 		</p>
-		<p class="quoteAuthor">Marion Etzwiler &mdash; President, Minneapolis Foundation (Retired)</p>
+		<p class="quoteAuthor">Marion Etzwiler &mdash; Past President, Minneapolis Foundation</p>
 
 	</div>	<!-- END CONTENT -->
 </div>	<!-- END MAIN CONTENT -->
@@ -67,9 +57,15 @@
 <div id="sidebar">
 	<h2>Client/Colleague Testimonials</h2>
 	<ul class='side-nav'>
-		<li><a href="<?php echo getBaseUrl(); ?>comments/philanthropic-consulting.php">Philanthropic Consulting</a></li>
-		<li><a href="<?php echo getBaseUrl(); ?>comments/organizational-development.php">Organizational Development</a></li>
-		<li><a href="<?php echo getBaseUrl(); ?>comments/leadership-mentoring.php">Leadership Mentoring</a></li>
+		<li>
+			<a href="<?php echo getBaseUrl(); ?>comments/philanthropic-consulting.php">Philanthropic Consulting</a>
+		</li>
+		<li>
+			<a href="<?php echo getBaseUrl(); ?>comments/organizational-development.php">Organizational Development</a>
+		</li>
+		<li>
+			<a href="<?php echo getBaseUrl(); ?>comments/leadership-mentoring.php">Leadership Mentoring</a>
+		</li>
 	</ul>
 
 	<?php

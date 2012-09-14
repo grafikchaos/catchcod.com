@@ -21,7 +21,7 @@
 				skills. It all works together for constructive, durable solutions.&quot;
 			</em>
 		</p>
-		<p class="quoteAuthor">Jerry Fisher &mdash; President, University of Minnesota Foundation (Retired)</p>
+		<p class="quoteAuthor">Jerry Fisher &mdash; Past President, University of Minnesota Foundation</p>
 
 		<p class="quoteComment">
 			<em>
@@ -33,7 +33,7 @@
 			</em>
 		</p>
 		<p class="quoteAuthor">
-			Daryl Natz &mdash; Vice-President for Public Affairs (Retired), Continental Grain Company;<br/>
+			Daryl Natz &mdash; Past Vice-President for Public Affairs, Continental Grain Company;<br/>
 			Consultant to NonProfit Organizations
 		</p>
 
