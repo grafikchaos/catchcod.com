@@ -34,7 +34,14 @@
 		</p>
 		<p class="quoteAuthor">Tom Steinmetz &mdash; Program Director, Washburn Center for Children</p>
 
-
+		<p class="quoteComment">
+			<em>
+				&quot;I have known Jim Storm for better than 15 years and in that time, he has provided me with priceless counsel and powerful insights into my potential, and opened my eyes to the possibilities that exist in the world to align that potential with the work I choose. He honors the high value I place on independence and he challenges me to think in completely new ways. I can't recommend him highly enough &mdash; one initial consultation and you'll know what I mean &mdash; he 'gets it.'&quot;
+			</em>
+		</p>
+		<p class='quoteAuthor'>
+			Lissa Jones-Lofgren, Director, Diversity, Equity and Inclusion, Minnesota Council on Foundations
+		</p>
 
 	</div>	<!-- END CONTENT -->
 </div>	<!-- END MAIN CONTENT -->
