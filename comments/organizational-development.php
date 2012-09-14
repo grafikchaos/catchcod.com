@@ -22,7 +22,7 @@
 				challenges and opportunities, but also with a better understanding of ourselves.&quot;
 			</em>
 		</p>
-		<p class="quoteAuthor">Robert Holst &mdash; President, Concordia University, St. Paul</p>
+		<p class="quoteAuthor">Robert Holst &mdash; Past President, Concordia University, St. Paul</p>
 
 		<p class="quoteComment">
 			<em>
