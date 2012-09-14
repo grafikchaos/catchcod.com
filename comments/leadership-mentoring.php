@@ -26,6 +26,16 @@
 		</p>
 		<p class='quoteAuthor'>Mary E. Braun &mdash; Executive Director, Shenandoah Valley Discovery Museum</p>
 
+		<p class="quoteComment">
+			<em>
+				&quot;Jim's expertise, knowledge about resources, and supportive, thoughtful manner were invaluable. He
+				created a coaching environment that felt open and supportive while also being challenging, goal-oriented and pragmatic. I received useful, practical insight and information and felt rejuvenated and re-energized to face daily and strategic challenges. I would highly recommend Dr. Storm to anyone considering working with a coach or organizational development consultant.&quot;
+			</em>
+		</p>
+		<p class="quoteAuthor">Tom Steinmetz &mdash; Program Director, Washburn Center for Children</p>
+
+
+
 	</div>	<!-- END CONTENT -->
 </div>	<!-- END MAIN CONTENT -->
 
