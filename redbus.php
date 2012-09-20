@@ -10,7 +10,7 @@ displayHead();
 	<div id="mainContent">
 		<div id="content">
 			<?php include("redbus_stories.php"); ?>
-			<?php include("red_bus_stories/redbus_committees.html"); ?>
+			<?php include("red_bus_stories/redbus_search_for_new_leader.html"); ?>
 		</div>	<!-- END CONTENT -->
 	</div>	<!-- END MAIN CONTENT -->
 	<div id="sidebar">
