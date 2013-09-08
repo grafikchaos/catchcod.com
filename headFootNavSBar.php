@@ -88,50 +88,50 @@ function displayBus_SB() {
 
 function displayBook_SB() {
 ?>
-        <div class="sidebarnotes">
-            <img class="floatleft" src="<?php echo getBaseUrl(); ?>images/bookCover.jpg" alt="Book cover of: Master of Creative Philanthropy: The Story of Russel V. Ewald" />
-            <div class="sidebarNote">
-                <p>
-                  <a href="<?php echo getBaseUrl(); ?>mocphilanthropy.php"><em>Master of Creative Philanthropy: The Story of Russell V. Ewald</em></a>
-                  by Jim Storm and Michael Vitt.<br /><br />
-                  A book recognized as a valuable resource for learning about excellence in philanthropy.
-                  <a href="<?php echo getBaseUrl(); ?>mocphilanthropy.php" title="more information">Click here for more information</a> or <a href="<?php echo getBaseUrl(); ?>mocphilanthropy-read-book.php" title='read the book'>read the book here</a>.
-                </p>
-            </div>
+    <div class="sidebarnotes">
+        <img class="floatleft" src="<?php echo getBaseUrl(); ?>images/bookCover.jpg" alt="Book cover of: Master of Creative Philanthropy: The Story of Russel V. Ewald" />
+        <div class="sidebarNote">
+            <p>
+              <a href="<?php echo getBaseUrl(); ?>mocphilanthropy.php"><em>Master of Creative Philanthropy: The Story of Russell V. Ewald</em></a>
+              by Jim Storm and Michael Vitt.<br /><br />
+              A book recognized as a valuable resource for learning about excellence in philanthropy.
+              <a href="<?php echo getBaseUrl(); ?>mocphilanthropy.php" title="more information">Click here for more information</a> or <a href="<?php echo getBaseUrl(); ?>mocphilanthropy-read-book.php" title='read the book'>read the book here</a>.
+            </p>
         </div>
+    </div>
 
-        <div class="sidebarnotes">
-            <img class="floatleft" src="<?php echo getBaseUrl(); ?>images/bookCover_LNB.jpg" alt="Book cover of: Loring Nicollet-Bethlehem Community Centers, Inc. - A History" />
-            <div class="sidebarNote">
-                <p>
-                    <a class='external' href="<?php echo getBaseUrl(); ?>images/LNBfinal-lowres.pdf"><em>Loring Nicollet-Bethlehem Community Centers, Inc. - A Lively History</em></a>
-                    by Laura Ayers and Jim Storm.<br /><br />
-                    A lively, very accessible history of LNB and the powerful good that individuals create when they hold themselves to high standards. <a class='external' href="<?php echo getBaseUrl(); ?>images/LNBfinal-lowres.pdf" title='Click here to see a copy of the book'>Click here</a> to see a copy of the book.
-                </p>
-            </div>
+    <div class="sidebarnotes">
+        <img class="floatleft" src="<?php echo getBaseUrl(); ?>images/bookCover_LNB.jpg" alt="Book cover of: Loring Nicollet-Bethlehem Community Centers, Inc. - A History" />
+        <div class="sidebarNote">
+            <p>
+                <a class='external' href="<?php echo getBaseUrl(); ?>images/LNBfinal-lowres.pdf"><em>Loring Nicollet-Bethlehem Community Centers, Inc. - A Lively History</em></a>
+                by Laura Ayers and Jim Storm.<br /><br />
+                A lively, very accessible history of LNB and the powerful good that individuals create when they hold themselves to high standards. <a class='external' href="<?php echo getBaseUrl(); ?>images/LNBfinal-lowres.pdf" title='Click here to see a copy of the book'>Click here</a> to see a copy of the book.
+            </p>
         </div>
+    </div>
 
-        <div class="sidebarnotes">
-            <img class='floatleft' src='<?php echo getBaseUrl(); ?>images/bookUnderConstruction.jpg' alt='A Boy from Nisswa - A work in progress. Focus on the life and professional practice of COD owner Jim Storm. Watch this space for availability.'>
-            <div class="sidebarNote">
-                <p>
-                    <em>A Boy From Nisswa</em>
-                    <br /><br />
-                    <a href="<?php echo getBaseUrl(); ?>a-boy-from-nisswa-short-sample.php">Short Samples</a>
-                </p>
-            </div>
+    <div class="sidebarnotes">
+        <img class='floatleft' src='<?php echo getBaseUrl(); ?>images/bookUnderConstruction.jpg' alt='A Boy from Nisswa - A work in progress. Focus on the life and professional practice of COD owner Jim Storm. Watch this space for availability.'>
+        <div class="sidebarNote">
+            <p>
+                <em>A Boy From Nisswa</em>
+                <br /><br />
+                <a href="<?php echo getBaseUrl(); ?>a-boy-from-nisswa-short-sample.php">Short Samples</a>
+            </p>
         </div>
+    </div>
 
-        <div class="sidebarnotes">
-            <img class='floatleft' src='<?php echo getBaseUrl(); ?>images/bookCover.jpg' alt="Executive Director Leadership Key Points" />
-            <div class='sidebarNote'>
-                <ul>
-                    <li>Point 1</li>
-                    <li>Point 2</li>
-                    <li>Point 3</li>
-                </ul>
-            </div>
+    <div class="sidebarnotes">
+        <img class='floatleft' src='<?php echo getBaseUrl(); ?>images/bookCover.jpg' alt="Executive Director Leadership Key Points" />
+        <div class='sidebarNote'>
+            <ul>
+                <li>Point 1</li>
+                <li>Point 2</li>
+                <li>Point 3</li>
+            </ul>
         </div>
+    </div>
 <?php
 }
 ?>
