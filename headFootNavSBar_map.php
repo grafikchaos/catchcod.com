@@ -136,7 +136,7 @@ function displayFooter() {
 			<p>
 				Center for Organizational Development&nbsp;&nbsp;|&nbsp;&nbsp;
 				5200 Willson Road, #307&nbsp;&nbsp;|&nbsp;&nbsp;
-				Minneapolis, MN 55424&nbsp;&nbsp;|&nbsp;&nbsp;
+				Edina, MN 55424&nbsp;&nbsp;|&nbsp;&nbsp;
 				612-379-3817&nbsp;&nbsp;|&nbsp;&nbsp;
 				<a href="mailto:jstormcod1@aol.com">jstormcod1@aol.com</a>
 			</p>
