@@ -407,6 +407,7 @@ img#noisyBus:hover { cursor:pointer; }
 	margin:0px 0 10px 110px;
 	padding:10px 0 0 0px;
 	display:block;
+	min-height: 70px;
 }
 
 .sidebarNote p {
@@ -434,7 +435,21 @@ img#noisyBus:hover { cursor:pointer; }
 }
 
 .sidebarnotes {
-	margin:0 0 40px 0;
+	clear: both;
+	float: left;
+	margin: 0 0 20px 0;
+}
+
+.sidebarnotes .icon-stack {
+	margin-left: -15px;
+}
+
+.blue {
+	color: #00A0C6;
+}
+
+.gold {
+	color: #ffaa00;
 }
 
 

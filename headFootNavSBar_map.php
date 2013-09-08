@@ -20,6 +20,7 @@ function displayHead() {
 <title>The Center for Organizational Development</title>
 <link type="text/css" rel="stylesheet" href="<?php echo getBaseUrl(); ?>styles/CODstyles.css" media="screen, print" />
 <link type="text/css" rel="stylesheet" href="<?php echo getBaseUrl(); ?>styles/dd-formmailer.css" media="screen" />
+<link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
 <script type="text/javascript" src="<?php echo getBaseUrl(); ?>javascript/jquery-min.js"></script>
 <script type="text/javascript" src="<?php echo getBaseUrl(); ?>javascript/cod_core.js"></script>
 
@@ -122,13 +123,18 @@ function displayBook_SB() {
     </div>
 
     <div class="sidebarnotes">
-        <img class='floatleft' src='<?php echo getBaseUrl(); ?>images/bookCover.jpg' alt="Executive Director Leadership Key Points" />
+        <div class="floatleft" style='font-size: 1.5em;'>
+            <span class="icon-stack icon-4x blue">
+                <i class="icon-check-empty icon-stack-base icon-muted"></i>
+                <i class="icon-star"></i>
+            </span>
+        </div>
         <div class='sidebarNote'>
-            <ul>
-                <li>Point 1</li>
-                <li>Point 2</li>
-                <li>Point 3</li>
-            </ul>
+            <p>
+                <strong>Executive Director Leadership Key Points</strong>
+                <br /><br />
+                <a href="<?php echo getBaseUrl(); ?>executive-leadership-key-points.php">Click here to read the full list of key points.</a>
+            </p>
         </div>
     </div>
 
