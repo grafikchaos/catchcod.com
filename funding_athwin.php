@@ -11,15 +11,15 @@ displayHead();
 	<div id="content">
 	    <h1>Athwin Foundation</h1>
 
-        <h2 class='section-title'>Funding Guidelines &mdash; Current</h2>
+        <h2 class='section-title'>Funding Guidelines</h2>
 
         <h2 class='section-title'>I. Background Information</h2>
 
         <p>
             The Athwin Foundation &ndash; A family foundation named for <u>Ath</u>erton and <u>Win</u>ifred Bean
-            and located in the Greater Twin Cities area of Minneapolis and St. Paul funds organizations providing
+            located in the Greater Twin Cities area of Minneapolis and St. Paul funds organizations that provide
             services in the areas of Arts and Humanities, Education, Human Services, Environmental Enhancement,
-            Organizational Capacity Building and charities whose missions are complementary to the interests of
+            Organizational Capacity Building and whose missions are complementary to the interests of
             the Trustees.
         </p>
 
@@ -45,8 +45,7 @@ displayHead();
                         The Foundation will objectively review each request for funding that meets Foundation criteria.
                     </li>
                     <li>
-                        The Foundation will make funding decisions based on stated criteria and avoid conflict
-                        of interest in the decision making process.
+                        The Foundation will make funding decisions based on stated criteria and avoid conflict of interest in the decision making process.
                     </li>
                     <li>
                         The Foundation will provide timely information and feedback to all organizations requesting
@@ -63,25 +62,22 @@ displayHead();
             <li>Organization Responsibilities
                 <ul class='bodyBullets'>
                     <li>
-                        Organizations requesting funds are to review information and guidelines on the
-                        <a href="http://www.catchcod.com">www.catchcod.com</a> web site regarding the Athwin
-                        Foundation prior to <em>each</em> submission of a Letter of Inquiry.
+                        Organizations requesting funds are to review information and guidelines on this web site prior to <em>every</em> submission of a Letter of Inquiry.
                     </li>
                     <li>
-                        Organizations requesting funds are to follow all guidelines established and in place
-                        for all funding requests.
+                        Organizations requesting funds are to follow all guidelines.
                     </li>
                     <li>
-                        Organizations will notify the Foundation of significant changes that have or are taking
-                        place that will have an impact on funding decisions.
+                        Organizations will notify the Foundation of significant changes that have or are taking place that will have an impact on funding decisions.
                     </li>
                     <li>
                         Organizations requesting funds will initiate each request with a Letter of Inquiry.
                     </li>
                     <li>
-                        Organizations are encouraged to ask questions when clarity is needed at any point
-                        in the process.
+                        Organizations are encouraged to ask questions when clarity is needed at any point in the process.
                     </li>
+                    <li>Organizations acknowledge receipt of contributions.</li>
+                    <li>Organizations will notify the Foundation of the date and place of annual meeting.</li>
                 </ul>
             </li>
         </ol>
@@ -94,8 +90,7 @@ displayHead();
 
         <ul class='bodyBullets'>
             <li>
-                Overall operating strength of the organization, including its board and demonstrated
-                executive leadership and level of board participation.
+                Overall strength of the organization, including its board and executive leadership.
             </li>
             <li>
                 Need for and demonstrated effectiveness of its programs.
@@ -133,7 +128,7 @@ displayHead();
                 Annual operating budget.
             </li>
             <li>
-                Amount of proposed request.
+                Amount of dollar request.
             </li>
             <li>
                 Brief description of the focus of the funding request and how this request meets
@@ -191,22 +186,18 @@ displayHead();
 
         <ul class="bodyBullets">
             <li>
-                Organizations asked to complete a full proposal will receive notification with detailed
-                information regarding the content and due date of the proposal.
+                Organizations asked to complete a full proposal will receive notification with detailed information regarding the content and due date of the proposal.
             </li>
             <li>
-                Funding decisions will be made in approximately mid-May for the first cycle and mid-December
-                for the second cycle.
+                Funding decisions will be made in approximately mid-May for the first cycle and mid-December for the second cycle.
             </li>
             <li>
-                All organizations submitting Letters of Inquiry and proposals will receive notification
-                when funding decisions are made.
+                All organizations submitting Letters of Inquiry and proposals will receive notification after funding decisions are final. Allow 2&ndash;3 weeks for response.
             </li>
         </ul>
 
-        <p>
-            All questions should be directed to Jim Storm, Consultant to the Foundation,
-            <a href="mailto:jstormcod1@aol.com" title="Email Jim Storm">jstormcod1@aol.com</a>.
+        <p class="lead">
+            All questions should be directed to Jim Storm, Consultant to the Foundation, <a href="mailto:jstormcod1@aol.com" title="Email Jim Storm">jstormcod1@aol.com</a> or call 612-379-3817.
         </p>
 
         <p>
