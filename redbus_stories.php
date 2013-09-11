@@ -34,6 +34,9 @@ if(isset($_GET["story"])) {
 		case "committees":
 			include('red_bus_stories/redbus_committees.html');
 			break;
+		case "board-tailgating":
+			include('red_bus_stories/redbus_board_tailgaiting.html');
+			break;
 	}
 }
 ?>
