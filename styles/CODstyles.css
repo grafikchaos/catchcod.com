@@ -103,6 +103,7 @@ strong, em, strong em { font-size:1em; }
 	display: block;
 	background: #f9f9f9;
 	padding: 2em;
+	margin: 2em 0;
 }
 
 #content blockquote.excerpt .title {
