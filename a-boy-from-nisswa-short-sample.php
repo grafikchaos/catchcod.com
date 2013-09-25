@@ -58,6 +58,7 @@
         <hr />
 
         <blockquote class='excerpt'>
+            <h1 class="title">New York High School</h1>
             <p>
                 January 1949: A blustery cold winter's night on the north shore of Round Lake, seven miles from the nearest community of Nisswa, Minnesota.  Bare tree limbs, a landscape covered by a foot of snow and a  temperature of 6 degrees F. attest to the reality that this is the dead of winter. Much earlier what sun  had existed had dipped into the far southern horizon. Most residents have long ago migrated south with the only reminder of current habitation being an occasional light flickering in the far-off distance.
             </p>
