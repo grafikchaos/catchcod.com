@@ -20,6 +20,7 @@ displayHead();
 						<li>Philanthropic Consultation</li>
 						<li>Organizational Development</li>
 						<li>Leadership Mentoring</li>
+						<li>Individual and Organization Transitions</li>
 					</ul>
 				</p>
 
