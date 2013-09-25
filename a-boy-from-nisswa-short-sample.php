@@ -8,13 +8,13 @@
 
 <div id="mainContent">
     <div id="content">
-        <h1>An excerpt from <em>A Boy From Nisswa</em></h1>
+        <h1>Excerpts from <em>A Boy From Nisswa</em></h1>
 
         <blockquote class='excerpt'>
             <h1 class="title">Sixth Grade Class Trip</h1>
 
             <p>
-                Spring 1953 – my sixth grade class trip. The destinations of class trips vary greatly. Some are
+                Spring 1953 &mdash; my sixth grade class trip. The destinations of class trips vary greatly. Some are
                 to mind-expanding places like Washington, D.C. while others are designed more like service projects
                 designed to address some existing need.
             </p>
@@ -63,11 +63,11 @@
             </p>
 
             <p>
-                From the outside it is impossible to know just what is taking place within any one of the currently- inhabited homes. In one of these homes, in the tuck-under garage of the home on the north shore of frozen Round Lake, a high school basketball game is about to take place. How can this be possible?  Upon entering that garage, one realizes that this is, in fact, true. A game is about to take place between New York High School (must be a really large school ) and B B Balone (as in sausage) High School. Yes, Hormel hot dogs are being sold at the concession stand.
+                From the outside it is impossible to know just what is taking place within any one of the currently- inhabited homes. In one of these homes, in the tuck-under garage of the home on the north shore of frozen Round Lake, a high school basketball game is about to take place. How can this be possible?  Upon entering that garage, one realizes that this is, in fact, true. A game is about to take place between New York High School (must be a really large school) and B B Balone (as in sausage) High School. Yes, Hormel hot dogs are being sold at the concession stand.
             </p>
 
             <p>
-                The excitement level is high; however, playing conditions are quite precarious. The game time temperature is 48 degrees, thanks to the presence of one portable electric heater. A puddle of half-thawed slush deposited by the car usually parked in this space covers a good portion of the concrete playing surface and a single 60-watt bulb provides some light and a lot of shadows. The floor itself is also very unique. There is a single basket approximately six feet from the floor and the total length of the floor is eighteen feet.  Along the side of the floor sit the usual items found in a garage: rakes, shovels, a lawn mower and a variety of paint cans. Fortunately ,no fire inspectors have shown up.
+                The excitement level is high; however, playing conditions are quite precarious. The game time temperature is 48 degrees, thanks to the presence of one portable electric heater. A puddle of half-thawed slush deposited by the car usually parked in this space covers a good portion of the concrete playing surface and a single 60-watt bulb provides some light and a lot of shadows. The floor itself is also very unique. There is a single basket approximately six feet from the floor and the total length of the floor is eighteen feet.  Along the side of the floor sit the usual items found in a garage: rakes, shovels, a lawn mower and a variety of paint cans. Fortunately, no fire inspectors have shown up.
             </p>
 
             <p>
@@ -79,7 +79,7 @@
             </p>
 
             <p>
-                Time for player introductions. New York High School: center: John Leonard. He and Jimmie Storm look like identical twins. However, the same can be said about all others assembled as well. Guards:   Squash Leonard, John's younger brother, and Dick Kazmaier. The same Dick Kazmaier who was a football star at Princeton University? If so, has anyone checked his eligibility? (Due to his very recent death, we will never know the answer to this one.)  Two forwards round out the starting five: Dick Haystack and Dick Pigeon. This was before the day of point guards.
+                Time for player introductions. New York High School: the center is John Leonard. He and Jimmie Storm look like identical twins. However, the same can be said about all others assembled as well. Guards:   Squash Leonard, John's younger brother, and Dick Kazmaier. The same Dick Kazmaier who was a football star at Princeton University? If so, has anyone checked his eligibility? (Due to his very recent death, we will never know the answer to this one.) Two forwards round out the starting five: Dick Haystack and Dick Pigeon. This was before the day of point guards.
             </p>
 
             <p>
