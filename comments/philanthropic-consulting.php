@@ -9,7 +9,7 @@
 <div id="mainContent">
 	<div id="content">
 
-		<h1>Philanthropic Consulting Testimonials</h1>
+		<h1>Philanthropic Consulting</h1>
 
 		<p>The following are excerpts from comments received by COD:</p>
 
