@@ -16,24 +16,15 @@ displayHead();
         <h2 class='section-title'>I. Background Information</h2>
 
         <p>
-            The Athwin Foundation &ndash; A family foundation named for <u>Ath</u>erton and <u>Win</u>ifred Bean
-            located in the Greater Twin Cities area of Minneapolis and St. Paul funds organizations that provide
-            services in the areas of Arts and Humanities, Education, Human Services, Environmental Enhancement,
-            Organizational Capacity Building and whose missions are complementary to the interests of
-            the Trustees.
+            The Athwin Foundation &ndash; A family foundation named for <u>Ath</u>erton and <u>Win</u>ifred Bean located in the Greater Twin Cities area of Minneapolis and St. Paul funds organizations that provide services in the areas of Arts and Humanities, Education, Human Services, Environmental Enhancement,   Organizational Capacity Building and whose missions are complementary to the interests of the Trustees.
         </p>
 
         <p>
-            The Foundation puts a priority on funding organizations rather than specific programs within organizations.
-            Therefore, resources are directed to funded organizations primarily in the form of general operating
-            support. This policy clearly takes into account the need for strong and effective programs; however,
-            the policy also reflects the belief that strong and effective governing boards and executive directors
-            are best positioned to determine how resources are to be utilized at the organization level.
+            The Foundation puts a priority on funding organizations rather than specific programs within organizations. Therefore, resources are directed to funded organizations primarily in the form of general operating support. This policy clearly takes into account the need for strong and effective programs; however, the policy also reflects the belief that strong and effective governing boards and executive directors are best positioned to determine how resources are to be utilized at the organization level.
         </p>
 
         <p>
-            The Foundation does not make multiple year grants; however, funding is continued on an annual basis
-            for many organizations. This leaves limited opportunity for new funding.
+            The Foundation does not make multiple year grants; however, funding is continued on an annual basis for many organizations. This leaves limited opportunity for new funding.
         </p>
 
         <p>The Foundation strives to work in partnership with nonprofit organizations:</p>
@@ -48,8 +39,7 @@ displayHead();
                         The Foundation will make funding decisions based on stated criteria and avoid conflict of interest in the decision making process.
                     </li>
                     <li>
-                        The Foundation will provide timely information and feedback to all organizations requesting
-                        funds from the Foundation.
+                        The Foundation will provide timely information and feedback to all organizations requesting funds from the Foundation.
                     </li>
                     <li>
                         The Foundation will respect confidentiality with regard to organizations' information.
@@ -115,47 +105,19 @@ displayHead();
 
 
         <p>
-            <strong>B. Each request for funding requires a Letter of Inquiry</strong> &mdash; no longer than
-            two pages and printed on only one side of each page &mdash; in which the applicant organization
-            addresses the following points:
+            <strong>B. Each request for funding requires a Letter of Inquiry</strong> &mdash; no longer than two pages and printed on only one side of each page &mdash; in which the applicant organization addresses the following points:
         </p>
         <ul class="bodyBullets">
-            <li>
-                A statement that the organization is currently a tax-exempt organization
-                (The Foundation does not fund individuals).
-            </li>
-            <li>
-                Annual operating budget.
-            </li>
-            <li>
-                Amount of dollar request.
-            </li>
-            <li>
-                Brief description of the focus of the funding request and how this request meets
-                Foundation guidelines.
-            </li>
-            <li>
-                Brief description of current organizational leadership.
-            </li>
-            <li>
-                Description of the primary roles played by the governing board.
-            </li>
-            <li>
-                A figure indicating average percent of board members in attendance at board meetings over the
-                past 12-month period of time.
-            </li>
-            <li>
-                Indication whether the organization has completed or plans to complete an organizational
-                self-assessment and the year it was completed or is planned to be completed. (See Little
-                Red Bus &mdash; The Check Up &mdash; for description of an organizational assessment.)
-            </li>
-            <li>
-                Include contact name, email and phone number.
-            </li>
-            <li>
-                Additional enclosures, such as flyers, newsletters, etc., are not to be a part
-                of the Letter of Inquiry.
-            </li>
+            <li>A statement that the organization is currently a tax-exempt organization (The Foundation does not fund individuals).</li>
+            <li>Annual operating budget.</li>
+            <li>Amount of dollar request.</li>
+            <li>Brief description of the focus of the funding request and how this request meets Foundation guidelines.</li>
+            <li>Brief description of current organizational leadership.</li>
+            <li>Description of the primary roles played by the governing board.</li>
+            <li>A figure indicating average percent of board members in attendance at board meetings over the past 12-month period of time.</li>
+            <li> Indication whether the organization has completed or plans to complete an organizational self-assessment and the year it was completed or is planned to be completed. (See Little Red Bus &mdash; The Check Up &mdash; for description of an organizational assessment.)</li>
+            <li> Include contact name, email and phone number. </li>
+            <li> Additional enclosures, such as fliers, newsletters, etc., are not to be a part of the Letter of Inquiry.</li>
         </ul>
 
         <p>All Letters of Inquiry are to be at the Foundation office no later than 4:00 P.M.:</p>
@@ -169,8 +131,7 @@ displayHead();
         </ul>
 
         <p>
-            When a due date falls on a weekend or holiday, Letters of Inquiry are due in the Athwin
-            Foundation office <strong><em>by the last business day before the due date.</em></strong>
+            When a due date falls on a weekend or holiday, Letters of Inquiry are due in the Athwin Foundation office <strong><em>by the last business day before the due date.</em></strong>
         </p>
         <blockquote class="address-block">
             <p><strong>All correspondence is to be mailed to:</strong></p>
@@ -185,15 +146,9 @@ displayHead();
         <p><strong>C. Follow-Up</strong></p>
 
         <ul class="bodyBullets">
-            <li>
-                Organizations asked to complete a full proposal will receive notification with detailed information regarding the content and due date of the proposal.
-            </li>
-            <li>
-                Funding decisions will be made in approximately mid-May for the first cycle and mid-December for the second cycle.
-            </li>
-            <li>
-                All organizations submitting Letters of Inquiry and proposals will receive notification after funding decisions are final. Allow 2&ndash;3 weeks for response.
-            </li>
+            <li> Organizations asked to complete a full proposal will receive notification with detailed information regarding the content and due date of the proposal.</li>
+            <li>Funding decisions will be made in approximately mid-May for the first cycle and mid-December for the second cycle.</li>
+            <li>All organizations submitting Letters of Inquiry and proposals will receive notification after funding decisions are final. Allow 2&ndash;3 weeks for response.</li>
         </ul>
 
         <p class="lead">
