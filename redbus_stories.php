@@ -41,6 +41,11 @@ if(isset($_GET["story"])) {
         case "sunrise-sunset":
             include('red_bus_stories/redbus_sunrise-sunset.html');
             break;
+
+        case "two-better-than-one":
+            include('red_bus_stories/redbus_two-better-than-one.html');
+            break;
+
     }
 }
 ?>

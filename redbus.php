@@ -10,7 +10,7 @@ displayHead();
     <div id="mainContent">
         <div id="content">
             <?php include("redbus_stories.php"); ?>
-            <?php include("red_bus_stories/redbus_sunrise-sunset.html"); ?>
+            <?php include("red_bus_stories/redbus_two-better-than-one.html"); ?>
         </div>  <!-- END CONTENT -->
     </div>  <!-- END MAIN CONTENT -->
     <div id="sidebar">
@@ -29,6 +29,7 @@ displayHead();
             <li><a href="<?php echo getBaseUrl(); ?>redbus.php?story=committees">Committees</a></li>
             <li><a href="<?php echo getBaseUrl(); ?>redbus.php?story=board-tailgating">Board Tailgating</a></li>
             <li><a href="<?php echo getBaseUrl(); ?>redbus.php?story=sunrise-sunset">Sunrise, Sunset</a></li>
+            <li><a href="<?php echo getBaseUrl(); ?>redbus.php?story=two-better-than-one">Two Better than One?</a></li>
         </ul>
         <br/><br/>
         <div class="sidebarnotes">
