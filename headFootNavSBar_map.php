@@ -120,7 +120,7 @@ function displayBook_SB() {
         </div>
         <div class='sidebarNote'>
             <p>
-                <strong>Executive Director Leadership Key Points</strong>
+                <strong>Executive Leadership</strong>
                 <br /><br />
                 <a href="<?php echo getBaseUrl(); ?>executive-leadership-key-points.php">Click here to read the full list of key points.</a>
             </p>
