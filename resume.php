@@ -10,9 +10,9 @@
     <div id="content">
         <p>
             Jim Storm, Ph.D.<br/>
-            5200 Willson Road, #307<br/>
-            Edina, MN 55424<br/>
-            612-379-3817<br/>
+            1219 University Ave SE<br/>
+            Minneapolis, MN 55414<br/>
+            612-616-0256<br/>
             <a href="mailto:jstormcod1@aol.com" title="email Jim">jstormcod1@aol.com</a>
         </p>
 

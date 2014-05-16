@@ -177,8 +177,8 @@ displayHead();
             <address>
                 Jim Storm<br />
                 Athwin Foundation<br />
-                5200 Willson Road, Suite 307<br />
-                Minneapolis, MN 55424
+                1219 University Ave SE<br />
+                Minneapolis, MN 55414
             </address>
         </blockquote>
 
@@ -197,7 +197,7 @@ displayHead();
         </ul>
 
         <p class="lead">
-            All questions should be directed to Jim Storm, Consultant to the Foundation, <a href="mailto:jstormcod1@aol.com" title="Email Jim Storm">jstormcod1@aol.com</a> or call 612-379-3817.
+            All questions should be directed to Jim Storm, Consultant to the Foundation, <a href="mailto:jstormcod1@aol.com" title="Email Jim Storm">jstormcod1@aol.com</a> or call 612-616-0256.
         </p>
 
         <p>
