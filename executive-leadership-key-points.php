@@ -11,7 +11,9 @@
             <li>Leadership is grounded in your "being" and your "doing."</li>
             <li>Ask good questions and listen carefully to what is said and not said.</li>
             <li>Act on your intuitions and not your impulses.</li>
+            <li>Once a decision has been made &emdash; ACT</li>
             <li>Acknowledge and thank others as members of the team.</li>
+            <li>Show up</li>
             <li>Avoid tunnel vision and get out of your comfort zone.</li>
             <li>Show me a strong board and I will show you an executive who is a good teacher.</li>
             <li>Know your weaknesses and find others with these strengths.</li>
@@ -22,6 +24,7 @@
             <li>Work to end relationships on a positive note.</li>
             <li>Maintain a safe source to which you can turn when troubled.</li>
             <li>Know when to move on.</li>
+            <li>Actions speak louder than words</li>
             <li>Don't criticize those who have gone before you or follow you.</li>
             <li>Personnel issues will never go away. </li>
             <li>Staff members will grow but seldom change.</li>
