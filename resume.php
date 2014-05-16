@@ -10,7 +10,7 @@
     <div id="content">
         <p>
             Jim Storm, Ph.D.<br/>
-            1219 University Ave SE<br/>
+            c/o 1219 University Ave SE<br/>
             Minneapolis, MN 55414<br/>
             612-616-0256<br/>
             <a href="mailto:jstormcod1@aol.com" title="email Jim">jstormcod1@aol.com</a>

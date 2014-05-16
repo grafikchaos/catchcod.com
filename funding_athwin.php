@@ -135,7 +135,7 @@ displayHead();
             <address>
                 Jim Storm<br />
                 Athwin Foundation<br />
-                1219 University Ave SE<br />
+                c/o 1219 University Ave SE<br />
                 Minneapolis, MN 55414
             </address>
         </blockquote>

@@ -140,7 +140,7 @@ function displayFooter() {
         <div id="footerContent">
             <p>
               Center for Organizational Development&nbsp;&nbsp;|&nbsp;&nbsp;
-              1219 University Ave SE&nbsp;&nbsp;|&nbsp;&nbsp;
+              c/o 1219 University Ave SE&nbsp;&nbsp;|&nbsp;&nbsp;
               Minneapolis, MN 55414&nbsp;&nbsp;|&nbsp;&nbsp;
               612-616-0256&nbsp;&nbsp;|&nbsp;&nbsp;
               <a href="mailto:jstormcod1@aol.com">jstormcod1@aol.com</a>
