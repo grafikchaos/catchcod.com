@@ -123,12 +123,8 @@ displayHead();
 
         <p>All Letters of Inquiry are to be at the Foundation office no later than 4:00 P.M.:</p>
         <ul class="bodyBullets">
-            <li>
-                <strong>March 1 for the first funding cycle</strong>. (Printed hard copy)
-            </li>
-            <li>
-                <strong>October 1 for the second funding cycle</strong>. (Printed hard copy)
-            </li>
+            <li><strong>March 1 for the first funding cycle</strong>. (Printed hard copy)</li>
+            <li><strong>October 1 for the second funding cycle</strong>. (Printed hard copy)</li>
         </ul>
 
         <p>
@@ -154,11 +150,12 @@ displayHead();
 
         <p class="lead">
             All questions should be directed to Jim Storm, Consultant to the Foundation, <a href="mailto:jstormcod1@aol.com" title="Email Jim Storm">jstormcod1@aol.com</a> or call 612-616-0256.
+
+            <small>Email is preferred.</small>
         </p>
 
         <p>
-            The Athwin Foundation is a member organization of the Minnesota Council of Foundations (MCF) and
-            is guided by the Principles for Grantmakers adopted by the MCF Board of Directors.
+            The Athwin Foundation is a member organization of the Minnesota Council of Foundations (MCF) and is guided by the Principles for Grantmakers adopted by the MCF Board of Directors.
         </p>
 	</div>	<!-- END CONTENT -->
 </div>	<!-- END MAIN CONTENT -->
