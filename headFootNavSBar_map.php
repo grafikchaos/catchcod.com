@@ -112,17 +112,6 @@ function displayBook_SB() {
     </div>
 
     <div class="sidebarnotes">
-        <img class='floatleft' src='<?php echo getBaseUrl(); ?>images/bookUnderConstruction.jpg' alt='A Boy from Nisswa - A work in progress. Focus on the life and professional practice of COD owner Jim Storm. Watch this space for availability.'>
-        <div class="sidebarNote">
-            <p>
-                <em>A Boy From Nisswa</em>
-                <br /><br />
-                <a href="<?php echo getBaseUrl(); ?>a-boy-from-nisswa-short-sample.php">Short Samples</a>
-            </p>
-        </div>
-    </div>
-
-    <div class="sidebarnotes">
         <div class="floatleft" style='font-size: 1.5em;'>
             <span class="icon-stack icon-4x blue">
                 <i class="icon-check-empty icon-stack-base icon-muted"></i>
