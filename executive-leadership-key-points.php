@@ -33,6 +33,20 @@
             <li>Boards raise money when there is a sense of ownership.</li>
             <li>The mission is that of your organization, not your ego.</li>
         </ul>
+
+        <blockquote class='excerpt' cite="http://www.nytimes.com/2014/03/23/business/don-knauss-of-clorox-on-putting-your-followers-first.html?_r=0">
+            <p>
+            On the heart side, the lesson is that it's all about your people. If you're going to engage the best and the brightest and retain them, they'd better think that you care more about them than you care about yourself. They're not about making you look good.  You're about making them successful. If you really believe that and act on that, it gains you credibility and trust. You can run an organization based on fear for a short time. But trust is a much more powerful, long-term and sustainable way to drive an organization.
+            </p>
+
+            <footer>
+                &mdash; <a href='http://www.nytimes.com/2014/03/23/business/don-knauss-of-clorox-on-putting-your-followers-first.html?_r=0'><em>Don Knauss of Clorox, on Putting Your Followers First</em></a>
+                <br />
+                from <em>The New York Times</em>, March 23, 2014
+            </footer>
+        </blockquote>
+
+
     </div>  <!-- END CONTENT -->
 </div>  <!-- END MAIN CONTENT -->
 
