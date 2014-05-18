@@ -135,8 +135,8 @@ displayHead();
             <address>
                 Jim Storm<br />
                 Athwin Foundation<br />
-                c/o 1219 University Ave SE<br />
-                Minneapolis, MN 55414
+                5200 Willson Road, #307<br/>
+                Minneapolis 55424
             </address>
         </blockquote>
 
