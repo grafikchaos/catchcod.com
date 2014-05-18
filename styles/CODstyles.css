@@ -80,6 +80,11 @@ blockquote {
   	border-bottom:1px solid #dadada;
 }
 
+.red {
+	color: #c30;
+}
+
+
 
 p.largeCallout { font-size:18px; line-height:24px; }
 
