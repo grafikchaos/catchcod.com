@@ -11,7 +11,7 @@
             <li>Leadership is grounded in your "being" and your "doing."</li>
             <li>Ask good questions and listen carefully to what is said and not said.</li>
             <li>Act on your intuitions and not your impulses.</li>
-            <li>Once a decision has been made &emdash; ACT</li>
+            <li>Once a decision has been made &mdash; ACT</li>
             <li>Acknowledge and thank others as members of the team.</li>
             <li>Show up</li>
             <li>Avoid tunnel vision and get out of your comfort zone.</li>
