@@ -12,7 +12,7 @@ displayHead();
 	    <h1>Athwin Foundation</h1>
 
         <h2 class='section-title'>Funding Guidelines</h2>
-        <p class='red lead'>Effective through December 20th, <?php echo date('Y'); ?></p>
+        <p class='red lead'>Effective through December 20th, 2014</p>
 
         <h2 class='section-title'>I. Background Information</h2>
 
