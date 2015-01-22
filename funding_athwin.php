@@ -21,20 +21,37 @@ displayHead();
         </p>
 
         <p>
-            The Foundation puts a priority on funding organizations rather than specific programs within organizations. Therefore, resources are directed to funded organizations primarily in the form of general operating support. This policy clearly takes into account the need for strong and effective programs; however, the policy also reflects the belief that strong and effective governing boards and executive directors are best positioned to determine how resources are to be utilized at the organization level.
+            The Foundation puts a priority on funding organizations rather than specific programs within organizations. Therefore, resources are directed to funded organizations in the form of general operating support. This policy clearly takes into account the need for strong and effective programs; however, the policy also reflects the belief that strong and effective governing boards and executive directors are best positioned to determine how resources are to be utilized at the organization level.
         </p>
 
         <p>
-            The Foundation does not make multiple year grants; however, funding is continued on an annual basis for many organizations. This leaves limited opportunity for new funding.
+            The Foundation does not make multiple year grants; however, funding is continued on an annual basis for some organizations. This leaves limited opportunity for new funding.
         </p>
 
-        <p>The Foundation strives to work in partnership with nonprofit organizations:</p>
+        <p>
+            Effective January 2015, the Foundation will initiate communication with those organizations that it selects for potential funding. With very limited exception, this communication will take place during the first half of the calendar year. No letters of inquiry will be requested.
+        </p>
+
+        <p>
+            All organizations receiving notification for potential funding will complete the application process as outlined below (see Application Process) and submit all material by the date identified by the Foundation.
+        </p>
+
+        <p>
+            With limited exceptions, funding decisions and the distribution of grants will take place late in the calendar year.
+        </p>
+
+        <p>
+            The Foundation is open to initial inquiries &mdash; email preferred &mdash; from those organizations that it has not funded in the past. A very limited number of inquiries may result in funding from the Foundation. Priority is placed on small organizations and/or organizations in Greater Minnesota.
+        </p>
 
         <ol class='alphaUpper'>
             <li>Foundation Responsibilities
                 <ul class='bodyBullets'>
                     <li>
-                        The Foundation will objectively review each request for funding that meets Foundation criteria.
+                        The Foundation will respond to inquiries from organization that meet the funding criteria.
+                    </li>
+                    <li>
+                        The Foundation will select for review those organizations that have a strong potential for funding from the Foundation.
                     </li>
                     <li>
                         The Foundation will make funding decisions based on stated criteria and avoid conflict of interest in the decision making process.
@@ -46,6 +63,9 @@ displayHead();
                         The Foundation will respect confidentiality with regard to organizations' information.
                     </li>
                     <li>
+                        The Foundation will work in partnership with its funded organizations.
+                    </li>
+                    <li>
                         The Foundation will remain open to feedback that will result in better service.
                     </li>
                 </ul>
@@ -53,16 +73,13 @@ displayHead();
             <li>Organization Responsibilities
                 <ul class='bodyBullets'>
                     <li>
-                        Organizations requesting funds are to review information and guidelines on this web site prior to <em>every</em> submission of a Letter of Inquiry.
+                        Organizations requesting funding are to review all information on this website.
                     </li>
                     <li>
-                        Organizations requesting funds are to follow all guidelines.
+                        Organizations selected for potential funding are to follow all guidelines and submit requested material by the date identified for the application.
                     </li>
                     <li>
                         Organizations will notify the Foundation of significant changes that have or are taking place that will have an impact on funding decisions.
-                    </li>
-                    <li>
-                        Organizations requesting funds will initiate each request with a Letter of Inquiry.
                     </li>
                     <li>
                         Organizations are encouraged to ask questions when clarity is needed at any point in the process.
@@ -81,13 +98,16 @@ displayHead();
 
         <ul class='bodyBullets'>
             <li>
-                Overall strength of the organization, including its board and executive leadership.
+                An engaged board of directors whose members demonstrate their commitment to the organization by participating in board meetings and focusing on board-appropriate tasks that enhance the mission of the organization.
             </li>
             <li>
-                Need for and demonstrated effectiveness of its programs.
+                Strong executive leadership as demonstrated by working in partnership with the board of directors to meet the organization's mission.
             </li>
             <li>
-                Geographic area in which services are delivered &ndash; primary focus on Minnesota.
+                Need for and demonstrated effectiveness of its programs in meeting identified goals.
+            </li>
+            <li>
+                Geographic area in which services are delivered &mdash; primary focus on Minnesota.
             </li>
             <li>
                 Adherence to application guidelines established by the Foundation.
@@ -106,30 +126,14 @@ displayHead();
 
 
         <p>
-            <strong>B. Each request for funding requires a Letter of Inquiry</strong> &mdash; no longer than two pages and printed on only one side of each page &mdash; in which the applicant organization addresses the following points:
+            <strong>B. Points to be addressed by organizations selected to submit a proposal</strong> will come from the Foundation following the spring meeting.
         </p>
-        <ul class="bodyBullets">
-            <li>A statement that the organization is currently a tax-exempt organization (The Foundation does not fund individuals).</li>
-            <li>Annual operating budget.</li>
-            <li>Amount of dollar request.</li>
-            <li>Brief description of the focus of the funding request and how this request meets Foundation guidelines.</li>
-            <li>Brief description of current organizational leadership.</li>
-            <li>Description of the primary roles played by the governing board.</li>
-            <li>A figure indicating average percent of board members in attendance at board meetings over the past 12-month period of time.</li>
-            <li> Indication whether the organization has completed or plans to complete an organizational self-assessment and the year it was completed or is planned to be completed. (See Little Red Bus &mdash; The Check Up &mdash; for description of an organizational assessment.)</li>
-            <li> Include contact name, email and phone number. </li>
-            <li> Additional enclosures, such as fliers, newsletters, etc., are not to be a part of the Letter of Inquiry.</li>
-        </ul>
-
-        <p>All Letters of Inquiry are to be at the Foundation office no later than 4:00 P.M.:</p>
-        <ul class="bodyBullets">
-            <li><strong>March 1 for the first funding cycle</strong>. (Printed hard copy)</li>
-            <li><strong>October 1 for the second funding cycle</strong>. (Printed hard copy)</li>
-        </ul>
 
         <p>
-            When a due date falls on a weekend or holiday, Letters of Inquiry are due in the Athwin Foundation office <strong><em>by the last business day before the due date.</em></strong>
+            If anything is not clear or if you have questions, contact Jim Storm at <a href="mailto:jstormcod1@aol.com">jstormcod1@aol.com</a>.
+
         </p>
+
         <blockquote class="address-block">
             <p><strong>All correspondence is to be mailed to:</strong></p>
             <address>
@@ -139,14 +143,6 @@ displayHead();
                 Minneapolis 55424
             </address>
         </blockquote>
-
-        <p><strong>C. Follow-Up</strong></p>
-
-        <ul class="bodyBullets">
-            <li> Organizations asked to complete a full proposal will receive notification with detailed information regarding the content and due date of the proposal.</li>
-            <li>Funding decisions will be made in approximately mid-May for the first cycle and mid-December for the second cycle.</li>
-            <li>All organizations submitting Letters of Inquiry and proposals will receive notification after funding decisions are final. Allow 2&ndash;3 weeks for response.</li>
-        </ul>
 
         <p class="lead">
             All questions should be directed to Jim Storm, Consultant to the Foundation, <a href="mailto:jstormcod1@aol.com" title="Email Jim Storm">jstormcod1@aol.com</a> or call 612-616-0256.
