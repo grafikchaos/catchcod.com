@@ -48,7 +48,7 @@ displayHead();
             <li>Foundation Responsibilities
                 <ul class='bodyBullets'>
                     <li>
-                        The Foundation will respond to inquiries from organization that meet the funding criteria.
+                        The Foundation will respond to inquiries from organizations that meet the funding criteria.
                     </li>
                     <li>
                         The Foundation will select for review those organizations that have a strong potential for funding from the Foundation.
